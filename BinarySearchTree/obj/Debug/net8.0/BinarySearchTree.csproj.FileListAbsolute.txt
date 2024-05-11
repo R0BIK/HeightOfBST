@@ -1,0 +1,14 @@
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.deps.json
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.runtimeconfig.json
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.dll
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.pdb
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.AssemblyInfo.cs
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.dll
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/refint/BinarySearchTree.dll
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.pdb
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.genruntimeconfig.cache
+/Users/ROBIK/Desktop/С#/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/ref/BinarySearchTree.dll
